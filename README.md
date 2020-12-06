@@ -5,9 +5,10 @@ We believe when true winners win the game, there will be potential projects to i
 ```
 Back end -> Data Crawling is made on Python/Django + Scrapy Frameworks
 Front end -> For SEO optimisation made with Vue/Nuxt
+
 ```
 
-Check Vue code [in this repo](https://github.com/Khalimovs/datahack2020/).
-Check Python code [in this repo](https://github.com/Khalimovs/held-in/).
+Check Vue code [in this repo](https://github.com/Khalimovs/datahack2020/)
+and Python code [in this repo](https://github.com/Khalimovs/held-in/).
 
 Check Working MVP made with WP here [Projects official website](http://held-in.uz).
