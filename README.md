@@ -11,4 +11,4 @@ Front end -> For SEO optimisation made with Vue/Nuxt
 Check Vue code [in this repo](https://github.com/Khalimovs/datahack2020/)
 and Python code [in this repo](https://github.com/Khalimovs/held-in/).
 
-Check Working MVP made with WP here [Projects official website](http://held-in.uz).
+Check Working MVP made with WP [here](https://held-in.uz).
