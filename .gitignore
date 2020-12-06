@@ -1,0 +1,14 @@
+venv
+media
+venv
+env
+static
+.idea/
+.vscode
+.DS_Store
+*.sqlite3
+*.pyc
+*.pyo
+_db.pyc
+.env.dev
+.env.prod.db
