@@ -9,4 +9,4 @@ Vue code is in this rep
 https://github.com/Khalimovs/datahack2020/blob/main/README.md
 ```
 
-To check our working MVP on WP please check [Held In website](http://held-in.uz).
+To check our working MVP on WP please check [Held In - projects official website](http://held-in.uz).
