@@ -7,3 +7,5 @@ admin.site.register(Reference)
 admin.site.register(Contestant)
 admin.site.register(Winner)
 admin.site.register(Project)
+
+
